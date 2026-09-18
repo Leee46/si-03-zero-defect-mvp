@@ -1,0 +1,11 @@
+flask
+flask-cors
+scikit-learn
+opencv-python
+tensorflow
+pillow
+numpy
+matplotlib
+pandas
+pyyaml
+shap
